@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
   // oncreate+
   //test2
+  //test_wzq add 1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
